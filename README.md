@@ -65,3 +65,4 @@ To translate between SPIR 1.2/2.0 and SPIR-V:
     * `-o file_name` - to specify output name
     * `-spirv-debug` - output debugging information
     * `-spirv-text` - read/write SPIR-V in an internal textual format for debugging purpose. The textual format is not defined by SPIR-V spec.
+Created by Jason Scott Heise
