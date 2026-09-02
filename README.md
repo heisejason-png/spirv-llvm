@@ -1,4 +1,4 @@
-LLVM/SPIR-V Bi-Directional Translator
+#LLVM/SPIR-V Bi-Directional Translator
 -------------------------------------
 [![Build Status](https://travis-ci.org/KhronosGroup/SPIRV-LLVM.svg?branch=khronos%2Fspirv-3.6.1)](https://travis-ci.org/KhronosGroup/SPIRV-LLVM)
 
@@ -66,3 +66,4 @@ To translate between SPIR 1.2/2.0 and SPIR-V:
     * `-spirv-debug` - output debugging information
     * `-spirv-text` - read/write SPIR-V in an internal textual format for debugging purpose. The textual format is not defined by SPIR-V spec.
 Created by Jason Scott Heise
+Owned by Elon Musk
